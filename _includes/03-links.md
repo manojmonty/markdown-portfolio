@@ -1,1 +1,1 @@
-https://github.com/manojmonty/markdown-portfolio/pull/2/files#diff-6caadcf83ba463c20e1a51db3bdc1125122612126f5fb388e083822908a54cfb
+[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
